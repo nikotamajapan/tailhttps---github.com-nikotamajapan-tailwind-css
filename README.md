@@ -2,3 +2,5 @@
 
 TailWind CSS　
 https://www.youtube.com/watch?v=4wTVdlL_YGU
+
+https://tailwindcss.com/docs/installation
